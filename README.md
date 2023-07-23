@@ -6,7 +6,7 @@ This data analysis task aims to provide a comprehensive overview of the Indian s
 
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP 1      | Indian Startup Ecosystem Data Analysis |  [Best article of the world](https://www.linkedin.com/pulse/india-startup-ecosystem-data-analyst-view-dorcas-wangui.) | [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+| LP 1      | Indian Startup Ecosystem Data Analysis |  [Published Article](https://www.linkedin.com/pulse/india-startup-ecosystem-data-analyst-view-dorcas-wangui.) | [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ## Project Description
 
