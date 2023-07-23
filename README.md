@@ -1,7 +1,70 @@
-# Venture-a-New-Market-In-india
-Ideas, creativity, and execution are essential for a start-up to flourish. But are they enough? Investors provide start-ups and other entrepreneurial ventures with the capital---popularly known as "funding"---to think big, grow rich, and leave a lasting impact. In this project, you are going to analyse funding received by start-ups in India from 2018 to 2021. You will find the data for each year of funding in a separate csv file in the dataset provided. In these files you'll find the start-ups' details, the funding amounts received, and the investors' information.
+# Indian Startup Ecosystem Data Analysis
 
-# secnerio
-Your team is trying to venture into the Indian start-up ecosystem. As the data expert of the team you are to investigate the ecosystem and propose the best course of action.
+This data analysis task aims to provide a comprehensive overview of the Indian startup ecosystem, focusing on the period from 2018 to 2021. By examining a rich dataset encompassing this timeframe, we aim to uncover key trends, patterns, and insights that shed light on the dynamic nature of India's startup landscape.
 
-# a story from a dataset 
+## Summary
+
+| Code      | Name        | Published Article |  Deployed App |
+|-----------|-------------|:-------------:|------:|
+| LP 1      | Indian Startup Ecosystem Data Analysis |  [Best article of the world](https://www.linkedin.com/pulse/india-startup-ecosystem-data-analyst-view-dorcas-wangui.) | [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+
+## Project Description
+
+In recent years, India has witnessed a remarkable surge in entrepreneurial activities, propelling the growth of its startup ecosystem. With a burgeoning population, a thriving digital landscape, and a supportive environment for innovation and entrepreneurship, India has become a hotbed for startups across various industries.
+
+This data analysis task aims to provide a comprehensive overview of the Indian startup ecosystem, focusing on the period from 2018 to 2021. By examining a rich dataset encompassing this timeframe, we aim to uncover key trends, patterns, and insights that shed light on the dynamic nature of India's startup landscape.
+
+
+Below is the Data Dictionary 
+| Column           | Description                                           |
+|------------------|-------------------------------------------------------|
+| Company/Brand    | Name of the company/start-up                          |
+| Founded          | Year start-up was founded                             |
+| Sector           | Sector of service                                     |
+| What it does     | Description about the company                         |
+| Founders         | Founders of the company                               |
+| Investor         | Investors                                             |
+| Amount($)        | Raised fund                                           |
+| Stage            | Round of funding reached                              |
+
+
+## Setup
+
+1. Install all the necessary libraries like `pandas, numpy, matplotlib, plotly`
+
+2.Install pyodbc - a package for creating connection strings to your remote database
+
+ 3.Install python-dotenv - a package for creating environment variables that will help you hide sensitve configuration informantion such as database credentials and API keys
+
+ 4.Import all the necessary libraies
+ 
+    a.pyodbc (for creating a connection)
+
+    b.python-dotenv (loading environment variables)
+
+5.Now create a file called .env in the root of your project folder (Note, the file name begins with a dot)
+
+6.In the .env file, put all your sensitive information like server name, database name, username, and password
+
+
+## App Execution
+
+The project is available in two formats: a published report and a deployed Power BI Dashboard.
+
+To access the Report, use the following link: [Report URL]()
+
+For the Deployed Dashboard, use the following link: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjI3M2Y3ZDAtZmEwOC00MzJjLThiZDEtYTU2NzcyNTJkZTgxIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
+
+## Author
+
+Dorcas Noosim Wangui (Team Lead)
+
+Solomon Nyamson
+
+Nobel Uhagaze
+
+Samuel Etornam Yaw Akortia
+
+Susan Sagina Adongo
+
+
